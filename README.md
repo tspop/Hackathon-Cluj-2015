@@ -2,7 +2,7 @@
 
 3D Fractal Explorer using Oclulus Rift and Leap Motion.
 
-Team:
+**Team:**  
 Silviu Pop  
 Raul Pop  
 Bogdan Maier  
